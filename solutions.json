@@ -1,0 +1,15 @@
+[
+  {
+    "problemId": "28",
+    "problemTitle": "Find the Index of the First Occurrence in a String",
+    "problemSlug": "find-the-index-of-the-first-occurrence-in-a-string",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "1 ms",
+    "memory": "43 MB",
+    "submissionId": "2052567084",
+    "timestamp": "1782922724",
+    "path": "Easy/0028_Find_the_Index_of_the_First_Occurrence_in_a_String.java"
+  }
+]
