@@ -1,0 +1,33 @@
+/*
+ * Problem: Find the Index of the First Occurrence in a String
+ * Problem ID: 28
+ * Difficulty: Easy
+ * Language: Java
+ * Runtime: 1 ms
+ * Memory: 43 MB
+ * Synced From: LeetCode
+ * Date: 2026-07-01
+ */
+
+class Solution {
+    public int strStr(String haystack, String needle) {
+
+        int n = haystack.length();
+        int m = needle.length();
+
+        for (int i = 0; i <= n - m; i++) {
+
+            int j = 0;
+
+            while (j < m && haystack.charAt(i + j) == needle.charAt(j)) {
+                j++;
+            }
+
+            if (j == m) {
+                return i;
+            }
+        }
+
+        return -1;
+    }
+}
