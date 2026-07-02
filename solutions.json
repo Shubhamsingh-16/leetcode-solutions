@@ -11,5 +11,18 @@
     "submissionId": "2052567084",
     "timestamp": "1782922724",
     "path": "Easy/0028_Find_the_Index_of_the_First_Occurrence_in_a_String.java"
+  },
+  {
+    "problemId": "53",
+    "problemTitle": "Maximum Subarray",
+    "problemSlug": "maximum-subarray",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "1 ms",
+    "memory": "77.3 MB",
+    "submissionId": "2053814119",
+    "timestamp": "1783012836",
+    "path": "Medium/0053_Maximum_Subarray.java"
   }
 ]
