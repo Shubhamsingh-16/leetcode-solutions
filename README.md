@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 1
+Total Solved: 2
 
 ## Easy
 
@@ -8,7 +8,7 @@ Total Solved: 1
 
 ## Medium
 
-*No medium problems solved yet.*
+- Maximum Subarray ([Java](Medium/0053_Maximum_Subarray.java))
 
 ## Hard
 
@@ -19,7 +19,7 @@ Total Solved: 1
 | Difficulty | Count |
 |------------|--------|
 | Easy | 1 |
-| Medium | 0 |
+| Medium | 1 |
 | Hard | 0 |
 
 ---
