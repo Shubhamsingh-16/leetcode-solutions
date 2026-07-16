@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 4
+Total Solved: 5
 
 ## Easy
 
@@ -11,6 +11,7 @@ Total Solved: 4
 ## Medium
 
 - Maximum Subarray ([Java](Medium/0053_Maximum_Subarray.java))
+- Spiral Matrix ([Java](Medium/0054_Spiral_Matrix.java))
 
 ## Hard
 
@@ -21,7 +22,7 @@ Total Solved: 4
 | Difficulty | Count |
 |------------|--------|
 | Easy | 3 |
-| Medium | 1 |
+| Medium | 2 |
 | Hard | 0 |
 
 ---
