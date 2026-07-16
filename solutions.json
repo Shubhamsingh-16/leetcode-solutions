@@ -37,5 +37,18 @@
     "submissionId": "2069532099",
     "timestamp": "1784186414",
     "path": "Easy/1580_Shuffle_the_Array.java"
+  },
+  {
+    "problemId": "1528",
+    "problemTitle": "Kids With the Greatest Number of Candies",
+    "problemSlug": "kids-with-the-greatest-number-of-candies",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "1 ms",
+    "memory": "43.8 MB",
+    "submissionId": "2069542746",
+    "timestamp": "1784187064",
+    "path": "Easy/1528_Kids_With_the_Greatest_Number_of_Candies.java"
   }
 ]
