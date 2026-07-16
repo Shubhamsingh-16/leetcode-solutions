@@ -50,5 +50,18 @@
     "submissionId": "2069542746",
     "timestamp": "1784187064",
     "path": "Easy/1528_Kids_With_the_Greatest_Number_of_Candies.java"
+  },
+  {
+    "problemId": "54",
+    "problemTitle": "Spiral Matrix",
+    "problemSlug": "spiral-matrix",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "0 ms",
+    "memory": "43.1 MB",
+    "submissionId": "2069603380",
+    "timestamp": "1784190964",
+    "path": "Medium/0054_Spiral_Matrix.java"
   }
 ]
