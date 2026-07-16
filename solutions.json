@@ -24,5 +24,18 @@
     "submissionId": "2053814119",
     "timestamp": "1783012836",
     "path": "Medium/0053_Maximum_Subarray.java"
+  },
+  {
+    "problemId": "1580",
+    "problemTitle": "Shuffle the Array",
+    "problemSlug": "shuffle-the-array",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "0 ms",
+    "memory": "46.6 MB",
+    "submissionId": "2069532099",
+    "timestamp": "1784186414",
+    "path": "Easy/1580_Shuffle_the_Array.java"
   }
 ]
