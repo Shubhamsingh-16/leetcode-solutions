@@ -102,5 +102,18 @@
     "submissionId": "2136603053",
     "timestamp": "1788972479",
     "path": "Easy/0183_Customers_Who_Never_Order.sql"
+  },
+  {
+    "problemId": "182",
+    "problemTitle": "Duplicate Emails",
+    "problemSlug": "duplicate-emails",
+    "difficulty": "Easy",
+    "language": "MySQL",
+    "extension": "sql",
+    "runtime": "442 ms",
+    "memory": "0B",
+    "submissionId": "2136614237",
+    "timestamp": "1788972958",
+    "path": "Easy/0182_Duplicate_Emails.sql"
   }
 ]
