@@ -84,10 +84,10 @@
     "difficulty": "Easy",
     "language": "MySQL",
     "extension": "sql",
-    "runtime": "1066 ms",
+    "runtime": "392 ms",
     "memory": "0B",
-    "submissionId": "2136592846",
-    "timestamp": "1788972028",
+    "submissionId": "2136594401",
+    "timestamp": "1788972097",
     "path": "Easy/0181_Employees_Earning_More_Than_Their_Managers.sql"
   }
 ]
