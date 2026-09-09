@@ -63,5 +63,18 @@
     "submissionId": "2069603380",
     "timestamp": "1784190964",
     "path": "Medium/0054_Spiral_Matrix.java"
+  },
+  {
+    "problemId": "175",
+    "problemTitle": "Combine Two Tables",
+    "problemSlug": "combine-two-tables",
+    "difficulty": "Easy",
+    "language": "MySQL",
+    "extension": "sql",
+    "runtime": "476 ms",
+    "memory": "0B",
+    "submissionId": "2136572423",
+    "timestamp": "1788971129",
+    "path": "Easy/0175_Combine_Two_Tables.sql"
   }
 ]
