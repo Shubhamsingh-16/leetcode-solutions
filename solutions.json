@@ -110,10 +110,10 @@
     "difficulty": "Easy",
     "language": "MySQL",
     "extension": "sql",
-    "runtime": "442 ms",
+    "runtime": "431 ms",
     "memory": "0B",
-    "submissionId": "2136614237",
-    "timestamp": "1788972958",
+    "submissionId": "2136614931",
+    "timestamp": "1788972988",
     "path": "Easy/0182_Duplicate_Emails.sql"
   }
 ]
