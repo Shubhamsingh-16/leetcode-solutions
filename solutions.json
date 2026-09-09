@@ -97,10 +97,10 @@
     "difficulty": "Easy",
     "language": "MySQL",
     "extension": "sql",
-    "runtime": "547 ms",
+    "runtime": "671 ms",
     "memory": "0B",
-    "submissionId": "2136602066",
-    "timestamp": "1788972436",
+    "submissionId": "2136603053",
+    "timestamp": "1788972479",
     "path": "Easy/0183_Customers_Who_Never_Order.sql"
   }
 ]
