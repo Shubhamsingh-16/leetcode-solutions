@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 9
+Total Solved: 10
 
 ## Easy
 
@@ -9,6 +9,7 @@ Total Solved: 9
 - Employees Earning More Than Their Managers ([MySQL](Easy/0181_Employees_Earning_More_Than_Their_Managers.sql))
 - Duplicate Emails ([MySQL](Easy/0182_Duplicate_Emails.sql))
 - Customers Who Never Order ([MySQL](Easy/0183_Customers_Who_Never_Order.sql))
+- Delete Duplicate Emails ([MySQL](Easy/0196_Delete_Duplicate_Emails.sql))
 - Kids With the Greatest Number of Candies ([Java](Easy/1528_Kids_With_the_Greatest_Number_of_Candies.java))
 - Shuffle the Array ([Java](Easy/1580_Shuffle_the_Array.java))
 
@@ -25,7 +26,7 @@ Total Solved: 9
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 7 |
+| Easy | 8 |
 | Medium | 2 |
 | Hard | 0 |
 
