@@ -115,5 +115,18 @@
     "submissionId": "2136614931",
     "timestamp": "1788972988",
     "path": "Easy/0182_Duplicate_Emails.sql"
+  },
+  {
+    "problemId": "196",
+    "problemTitle": "Delete Duplicate Emails",
+    "problemSlug": "delete-duplicate-emails",
+    "difficulty": "Easy",
+    "language": "MySQL",
+    "extension": "sql",
+    "runtime": "829 ms",
+    "memory": "0B",
+    "submissionId": "2137894214",
+    "timestamp": "1789067377",
+    "path": "Easy/0196_Delete_Duplicate_Emails.sql"
   }
 ]
