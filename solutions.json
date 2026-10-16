@@ -128,5 +128,18 @@
     "submissionId": "2137894214",
     "timestamp": "1789067377",
     "path": "Easy/0196_Delete_Duplicate_Emails.sql"
+  },
+  {
+    "problemId": "3",
+    "problemTitle": "Longest Substring Without Repeating Characters",
+    "problemSlug": "longest-substring-without-repeating-characters",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "75 ms",
+    "memory": "47.4 MB",
+    "submissionId": "2173835053",
+    "timestamp": "1792155869",
+    "path": "Medium/0003_Longest_Substring_Without_Repeating_Characters.java"
   }
 ]
