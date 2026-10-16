@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 10
+Total Solved: 11
 
 ## Easy
 
@@ -15,6 +15,7 @@ Total Solved: 10
 
 ## Medium
 
+- Longest Substring Without Repeating Characters ([Java](Medium/0003_Longest_Substring_Without_Repeating_Characters.java))
 - Maximum Subarray ([Java](Medium/0053_Maximum_Subarray.java))
 - Spiral Matrix ([Java](Medium/0054_Spiral_Matrix.java))
 
@@ -27,7 +28,7 @@ Total Solved: 10
 | Difficulty | Count |
 |------------|--------|
 | Easy | 8 |
-| Medium | 2 |
+| Medium | 3 |
 | Hard | 0 |
 
 ---
