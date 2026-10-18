@@ -65,6 +65,19 @@
     "path": "Medium/0054_Spiral_Matrix.java"
   },
   {
+    "problemId": "3",
+    "problemTitle": "Longest Substring Without Repeating Characters",
+    "problemSlug": "longest-substring-without-repeating-characters",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "75 ms",
+    "memory": "47.4 MB",
+    "submissionId": "2173835053",
+    "timestamp": "1792155869",
+    "path": "Medium/0003_Longest_Substring_Without_Repeating_Characters.java"
+  },
+  {
     "problemId": "175",
     "problemTitle": "Combine Two Tables",
     "problemSlug": "combine-two-tables",
@@ -130,16 +143,16 @@
     "path": "Easy/0196_Delete_Duplicate_Emails.sql"
   },
   {
-    "problemId": "3",
-    "problemTitle": "Longest Substring Without Repeating Characters",
-    "problemSlug": "longest-substring-without-repeating-characters",
-    "difficulty": "Medium",
+    "problemId": "1",
+    "problemTitle": "Two Sum",
+    "problemSlug": "two-sum",
+    "difficulty": "Easy",
     "language": "Java",
     "extension": "java",
-    "runtime": "75 ms",
-    "memory": "47.4 MB",
-    "submissionId": "2173835053",
-    "timestamp": "1792155869",
-    "path": "Medium/0003_Longest_Substring_Without_Repeating_Characters.java"
+    "runtime": "45 ms",
+    "memory": "46.3 MB",
+    "submissionId": "1819740750",
+    "timestamp": "1762187550",
+    "path": "Easy/0001_Two_Sum.java"
   }
 ]
