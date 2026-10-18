@@ -3,20 +3,22 @@
  * Problem ID: 1
  * Difficulty: Easy
  * Language: Java
- * Runtime: 45 ms
- * Memory: 46.3 MB
+ * Runtime: 3 ms
+ * Memory: 46.7 MB
  * Synced From: LeetCode
  * Date: 2026-10-18
  */
 
 class Solution {
     public int[] twoSum(int[] nums, int target) {
-        for (int x=0;x<nums.length-1; x++){
-            for(int i=x+1; i<nums.length;i++){
-                if(nums[x]+nums[i]==target)
-                    return new int [] {x,i}; 
+        Map <Integer, Integer> seen = new HashMap<>();
+        for(int i = 0 ; i< nums.length ; i++){
+            int complement = target - nums[i];
+            if(seen.containsKey(complement)){
+                return new int [] {seen.get(complement), i};
             }
+            seen.put(nums[i],i);
         }
-        return new int [] {-1,-1};
+        return new int [2];
     }
 }
