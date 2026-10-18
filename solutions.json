@@ -149,10 +149,10 @@
     "difficulty": "Easy",
     "language": "Java",
     "extension": "java",
-    "runtime": "45 ms",
-    "memory": "46.3 MB",
-    "submissionId": "1819740750",
-    "timestamp": "1762187550",
+    "runtime": "3 ms",
+    "memory": "46.7 MB",
+    "submissionId": "2175391876",
+    "timestamp": "1792328199",
     "path": "Easy/0001_Two_Sum.java"
   }
 ]
