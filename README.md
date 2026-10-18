@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 12
+Total Solved: 13
 
 ## Easy
 
@@ -11,6 +11,7 @@ Total Solved: 12
 - Duplicate Emails ([MySQL](Easy/0182_Duplicate_Emails.sql))
 - Customers Who Never Order ([MySQL](Easy/0183_Customers_Who_Never_Order.sql))
 - Delete Duplicate Emails ([MySQL](Easy/0196_Delete_Duplicate_Emails.sql))
+- Valid Anagram ([Java](Easy/0242_Valid_Anagram.java))
 - Kids With the Greatest Number of Candies ([Java](Easy/1528_Kids_With_the_Greatest_Number_of_Candies.java))
 - Shuffle the Array ([Java](Easy/1580_Shuffle_the_Array.java))
 
@@ -28,7 +29,7 @@ Total Solved: 12
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 9 |
+| Easy | 10 |
 | Medium | 3 |
 | Hard | 0 |
 
