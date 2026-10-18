@@ -78,6 +78,19 @@
     "path": "Medium/0003_Longest_Substring_Without_Repeating_Characters.java"
   },
   {
+    "problemId": "1",
+    "problemTitle": "Two Sum",
+    "problemSlug": "two-sum",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "3 ms",
+    "memory": "46.7 MB",
+    "submissionId": "2175391876",
+    "timestamp": "1792328199",
+    "path": "Easy/0001_Two_Sum.java"
+  },
+  {
     "problemId": "175",
     "problemTitle": "Combine Two Tables",
     "problemSlug": "combine-two-tables",
@@ -143,16 +156,16 @@
     "path": "Easy/0196_Delete_Duplicate_Emails.sql"
   },
   {
-    "problemId": "1",
-    "problemTitle": "Two Sum",
-    "problemSlug": "two-sum",
+    "problemId": "242",
+    "problemTitle": "Valid Anagram",
+    "problemSlug": "valid-anagram",
     "difficulty": "Easy",
     "language": "Java",
     "extension": "java",
-    "runtime": "3 ms",
-    "memory": "46.7 MB",
-    "submissionId": "2175391876",
-    "timestamp": "1792328199",
-    "path": "Easy/0001_Two_Sum.java"
+    "runtime": "223 ms",
+    "memory": "47.5 MB",
+    "submissionId": "2175414047",
+    "timestamp": "1792330093",
+    "path": "Easy/0242_Valid_Anagram.java"
   }
 ]
